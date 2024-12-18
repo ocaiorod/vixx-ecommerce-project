@@ -46,7 +46,7 @@ We're currently working in a responsive version but we decided to release this f
 
 ## How to run ✅
 
-You can acess the site [clicking here.](https://vixxstore.netlify.app/) 
+You can visit the website [clicking here.](https://vixxstore.netlify.app/) 
 
 Or you can run it by yourself. Just open the files on any IDE and run the file named "index.html".
 
